@@ -1,5 +1,5 @@
 # Computer-underthehood
-The list of of lab implement the code in C/C++  to explore what under the hood of software when running on the hardware
+The list of of lab implement the code in C and Aseembly to explore what under the hood of software when running on the hardware
 They're assigment I did in Hardware/Software Interface course of Unversity of Washingtion included.
 
 lab 0
